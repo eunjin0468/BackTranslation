@@ -1,0 +1,30 @@
+{
+    "From these reports, we know that the group uses an abundance of tools and tactics, ranging across zero-day exploits targeting common applications such as Java or Microsoft Office, heavy use of spear-phishing attacks, compromising legitimate websites to stage watering-hole attacks, and targeting over a variety of operating systems – Windows, OSX, Linux, even mobile iOS": [
+        {
+            "tec_id": "T1189",
+            "en_text": "From these reports, we know that the group uses an abundance of tools and tactics, ranging across zero-day exploits targeting common applications such as Java or Microsoft Office, heavy use of spear-phishing attacks, compromising legitimate websites to stage watering-hole attacks, and targeting over a variety of operating systems – Windows, OSX, Linux, even mobile iOS",
+            "data_text": "Through these reports, the group uses a variety of tools and strategies, including zero-day attacks on common applications such as Java or Microsoft Office, window phishing attacks, legitimate website corruption for water spray attacks, and multiple operating systems (Windows, OSX, Li).nux, even mobile iOS"
+        }
+    ],
+    "Specifically, the following GitHub repositories appear to be controlled by the MuddyWater threat actor(s):  [unknown SHA256]  Downloads payload from: hxxps://raw.githubusercontent[.]com/F0R3X/BrowserFontArabic/master/ArabicBrowserFont.exe   [unknown SHA256]  Downloads payload from: hxxps://raw.githubusercontent[.]com/F0R3X/BrowserFontArabic/master/FontArabic.exe     9b5e36bb7518a9e333c31d09b589102f89e3425571dd434820ab3c437dc4e0d9 (and several others)  Downloads payload from: hxxps://raw.githubusercontent[.]com/ReactDeveloper2017/react/master/src/test/test.js    Interestingly, both profiles were populated with forked repositories to give them an air of legitimacy as shown in figure 2": [],
+    "What does the resulting watering hole look like? The websites were compromised to redirect visitors to instances of both ScanBox and BEeF": [
+        {
+            "tec_id": "T1189",
+            "en_text": "What does the resulting watering hole look like? The websites were compromised to redirect visitors to instances of both ScanBox and BEeF",
+            "data_text": "What does the resulting pool look like? The website is corrupted to redirect visitors to ScanBox and BEeF instances."
+        }
+    ],
+    "[2] Threat groups use strategic web compromises (SWCs), also known as watering hole attacks, to target a wide array of potential victims": [
+        {
+            "en_text": "[2] Threat groups use strategic web compromises (SWCs), also known as watering hole attacks, to target a wide array of potential victims",
+            "data_text": "[2] Threat groups use strategic web compromises (SWCs), also known as waterhole attacks, to target a wide range of potential victims."
+        }
+    ],
+    "We believe this access was abused, for example, by inserting malicious scripts in the country’s official websites in order to conduct watering hole attacks": [
+        {
+            "tec_id": "T1189",
+            "en_text": "We believe this access was abused, for example, by inserting malicious scripts in the country’s official websites in order to conduct watering hole attacks",
+            "data_text": "For example, we believe that this connection was abused by inserting malicious scripts into the country's official website to carry out a watering can attack."
+        }
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "From these reports we know that the group uses an abundance of tools and tactics ranging across zeroday exploits targeting common applications such as Java or Microsoft Office heavy use of spearphishing attacks compromising legitimate websites to stage wateringhole attacks and targeting over a variety of operating systems – Windows OSX Linux even mobile iOS": [
+        {
+            "en_text": "From these reports we know that the group uses an abundance of tools and tactics ranging across zeroday exploits targeting common applications such as Java or Microsoft Office heavy use of spearphishing attacks compromising legitimate websites to stage wateringhole attacks and targeting over a variety of operating systems – Windows OSX Linux even mobile iOS",
+            "JP_text": "これらのレポートから、JavaやMicrosoftOfficeのような一般的なアプリケーションを対象としたゼロデイの悪用に対応するツールと戦術が豊富に使用されていることがわかります。これにより、合法的なWebサイトを危険にさらし、さまざまなオペレーティングシステムを対象とした攻撃が行われるようになります。WindowsOSXLinuxevenvenvenvenobileiOS",
+            "data_text": "These reports show a wealth of tools and tactics used to address zero-day abuse for common applications such as Java and Microsoft Office.This can compromise legitimate websites and lead to attacks targeting a variety of operating systems.Windows OSXLinuxvenvenvenvenobileiOS"
+        }
+    ],
+    "Like many threat groups TG3390 conducts strategic web compromises  also known as watering hole attacks on websites associated with the target organizations vertical or demographic to increase the likelihood of finding victims with relevant information": [
+        {
+            "en_text": "Like many threat groups TG3390 conducts strategic web compromises  also known as watering hole attacks on websites associated with the target organizations vertical or demographic to increase the likelihood of finding victims with relevant information",
+            "JP_text": "多くの脅威グループと同様に、TG3390は、ターゲット組織に関連するWebサイトに対するウォーターホール攻撃とも呼ばれる戦略的なWeb侵害を実施し、関連情報を持つ被害者を発見する可能性を高めます。",
+            "data_text": "Like many threat groups, the TG3390 implements strategic web breaches, also known as waterhole attacks on websites related to the target organization, increasing the likelihood of finding victims with relevant information."
+        }
+    ],
+    "2 Threat groups use strategic web compromises SWCs also known as watering hole attacks to target a wide array of potential victims": [
+        {
+            "en_text": "2 Threat groups use strategic web compromises SWCs also known as watering hole attacks to target a wide array of potential victims",
+            "JP_text": "2脅威グループは、ウォーターホール攻撃とも呼ばれる戦略的なWeb侵害SWCを使用して、さまざまな潜在的な被害者をターゲットにします。",
+            "data_text": "2 Threat groups target a variety of potential victims using a strategic web compromise SWC, also known as a waterhole attack."
+        }
+    ],
+    "This is followed by a number of Linux shell command style commands related to the malware establishing persistence": [
+        {
+            "en_text": "This is followed by a number of Linux shell command style commands related to the malware establishing persistence",
+            "JP_text": "その後、永続性を確立するマルウェアに関連するLinuxシェルコマンドスタイルのコマンドが多数表示されます。",
+            "data_text": "You will then see many Linux shell command-style commands associated with malware that establish persistence."
+        }
+    ],
+    "The malware’s capabilities include taking a system survey access to the filesystem executing commands and a reverse shell": [
+        {
+            "en_text": "The malware’s capabilities include taking a system survey access to the filesystem executing commands and a reverse shell",
+            "JP_text": "マルウェアの機能には、コマンドを実行するファイルシステムへのシステム調査アクセスとリバースシェルが含まれます。",
+            "data_text": "Malware features include system survey access and reverse shell access to the file system that runs the command."
+        }
+    ],
+    "This indicates that a human operative was executing commands on a command line style interface rather than an automated or GUI process": [
+        {
+            "en_text": "This indicates that a human operative was executing commands on a command line style interface rather than an automated or GUI process",
+            "JP_text": "これは、作業者が自動化またはGUIプロセスではなく、コマンドラインスタイルのインターフェイスでコマンドを実行していたことを示します。",
+            "data_text": "This indicates that the operator was running the command on a command-line-style interface rather than on an automation or GUI process."
+        }
+    ],
+    "Although MURKYTOP is primarily a commandline reconnaissance tool it can also be used for lateral movement": [
+        {
+            "en_text": "Although MURKYTOP is primarily a commandline reconnaissance tool it can also be used for lateral movement",
+            "JP_text": "MULKTOPは主にコマンドライン偵察ツールですが、横移動にも使用できます。",
+            "data_text": "Although MULKTOP is primarily a command-line reconnaissance tool, it can also be used for lateral movement."
+        }
+    ],
+    "The majority of ActiveX Objects created with WscriptShell and ShellApplication are used to run programs create shortcuts manipulate the contents of the registry or access system folders": [
+        {
+            "en_text": "The majority of ActiveX Objects created with WscriptShell and ShellApplication are used to run programs create shortcuts manipulate the contents of the registry or access system folders",
+            "JP_text": "WscriptShellおよびShellApplicationで作成されたActiveXオブジェクトの大部分は、プログラムの実行に使用されます。ショートカットを作成すると、レジストリの内容を操作したり、システムフォルダにアクセスしたりできます。",
+            "data_text": "Most ActiveX objects created with WscriptShell and ShellApplication are used to run programs.By creating shortcuts, you can manipulate the contents of the registry and access the system folders."
+        }
+    ],
+    "This parameter transmits the agent_id to the C2 server to obtain commands the actor wishes to execute on the compromised system": [
+        {
+            "en_text": "This parameter transmits the agent_id to the C2 server to obtain commands the actor wishes to execute on the compromised system",
+            "JP_text": "このパラメータはagent_idをC2サーバに送信し、アクターが侵害されたシステムで実行するコマンドを取得します。",
+            "data_text": "This parameter sends the agent_id to the C2 server and retrieves the command to run on the compromised system."
+        }
+    ],
+    "We analyzed the command handler and found that it provided the necessary commands for a fully functional backdoor as seen in Table 1": [
+        {
+            "en_text": "We analyzed the command handler and found that it provided the necessary commands for a fully functional backdoor as seen in Table 1",
+            "JP_text": "コマンドハンドラを分析したところ、表1に示すように、完全に機能するバックドアに必要なコマンドが提供されています。",
+            "data_text": "After analyzing the command handlers, the commands required for a fully functional backdoor are provided, as shown in Table 1."
+        }
+    ],
+    "Figure 2 Sofacy Fysbis capability related leakage through strings Figure 2 shows interactive status  feedback strings that can give a defender an initial profile of capabilities": [
+        {
+            "en_text": "Figure 2 Sofacy Fysbis capability related leakage through strings Figure 2 shows interactive status  feedback strings that can give a defender an initial profile of capabilities",
+            "JP_text": "図2SofacyFysbis機能に関連する文字列からのリーク図2は、ディフェンダーに機能の初期プロファイルを与えることができるインタラクティブなステータスフィードバック文字列を示しています。",
+            "data_text": "Figure 2 Leaks from strings related to the SofacyFysbis feature Figure 2 shows an interactive status feedback string that can give the defender an initial profile of the feature."
+        }
+    ],
+    "For comparison if we were to inspect Fysbis “RemoteShell” associated strings in one of the stripped variants we would only see the following  Figure 3 Sofacy Fysbis stripped binary string references to RemoteShell capability Compare this with what is available from the nonstripped variant  Figure 4 Sofacy Fysbis nonstripped binary strings referenes to RemoteShell capability Little static analysis gifts like these can help to speed defender enumeration of capabilities and – more importantly – further contribute to correlation and detection across related samples": [
+        {
+            "en_text": "For comparison if we were to inspect Fysbis “RemoteShell” associated strings in one of the stripped variants we would only see the following  Figure 3 Sofacy Fysbis stripped binary string references to RemoteShell capability Compare this with what is available from the nonstripped variant  Figure 4 Sofacy Fysbis nonstripped binary strings referenes to RemoteShell capability Little static analysis gifts like these can help to speed defender enumeration of capabilities and – more importantly – further contribute to correlation and detection across related samples",
+            "JP_text": "比較のために、除去されたバリアントの1つでFysbis\"RemoteShell\"に関連付けられた文字列を検査すると、次の図3SofacyFysbis除去されたバイナリ文字列の参照がRemoteShell機能についてのみ表示されます。これを、除去されていないバリアントの図4SofacyFysbis非除去されたバイナリ文字列の参照と比較してください。 RemoteShellの機能に対する静的な分析機能が少ないため、ディフェンダーによる機能の列挙が迅速化され、さらに重要なことに、関連するサンプル間の相関関係と検出にさらに貢献します。",
+            "data_text": "For comparison, if you examine a string associated with a Fysbis \"RemoteShell\" in one of the removed variants, the following Figure 3 References to the SofacyFysbis removed binary string appear only for the RemoteShell feature:Compare this with reference to Figure 4 SofacyFysbis undeleted binary string in the variant that has not been removed. The lack of static analysis of RemoteShell features speeds up the enumeration of features by defenders, and, more importantly, further contributes to correlation and detection between relevant samples."
+        }
+    ],
+    "That malicious dll then loads encrypted shellcode from the binary which is decrypted and runs the final BUGJUICE payload": [
+        {
+            "en_text": "That malicious dll then loads encrypted shellcode from the binary which is decrypted and runs the final BUGJUICE payload",
+            "JP_text": "その悪意のあるdllは、暗号化されたシェルコードを復号化されたバイナリからロードし、最終的なBUGJUICEペイロードを実行します。",
+            "data_text": "The malicious dll loads the encrypted shell code from the decrypted binary and executes the final BUGJUICE payload."
+        }
+    ]
+}

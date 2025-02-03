@@ -1,0 +1,23 @@
+{
+    "From these reports we know that the group uses an abundance of tools and tactics ranging across zeroday exploits targeting common applications such as Java or Microsoft Office heavy use of spearphishing attacks compromising legitimate websites to stage wateringhole attacks and targeting over a variety of operating systems – Windows OSX Linux even mobile iOS": [
+        {
+            "en_text": "From these reports we know that the group uses an abundance of tools and tactics ranging across zeroday exploits targeting common applications such as Java or Microsoft Office heavy use of spearphishing attacks compromising legitimate websites to stage wateringhole attacks and targeting over a variety of operating systems – Windows OSX Linux even mobile iOS",
+            "CN_text": "从这些报告我们知道，该小组使用大量的工具和策略，针对常见的应用程序，如Java或Microsoft Office，大量使用威胁合法网站的矛头攻击来对各种操作系统进行灌水攻击和目标攻击——Windows OSX Linux事件。obile iOS",
+            "data_text": "From these reports, we know that the team uses a lot of tools and strategies to target common applications, such as Java or Microsoft Office, that threaten legitimate websites to launch flooding attacks and targeted attacks on a wide variety of operating systems.obile iOS"
+        }
+    ],
+    "2 Threat groups use strategic web compromises SWCs also known as watering hole attacks to target a wide array of potential victims": [
+        {
+            "en_text": "2 Threat groups use strategic web compromises SWCs also known as watering hole attacks to target a wide array of potential victims",
+            "CN_text": "2威胁组织利用策略性网络妥协方案,又称「泄水口」攻击,以攻击多种潜在受害者",
+            "data_text": "2 Threatening organizations use strategic cyber compromise, also known as \"leakage\" attacks, to attack a wide range of potential victims"
+        }
+    ],
+    "We believe this access was abused for example by inserting malicious scripts in the country’s official websites in order to conduct watering hole attacks": [
+        {
+            "en_text": "We believe this access was abused for example by inserting malicious scripts in the country’s official websites in order to conduct watering hole attacks",
+            "CN_text": "我们认为这种访问被滥用，例如，在美国的官方网站上插入恶意脚本，以便进行灌水攻击。",
+            "data_text": "We believe such visits are being abused, for example, by inserting malicious scripts into official U.S. websites for irrigation attacks."
+        }
+    ]
+}
