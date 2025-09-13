@@ -16,7 +16,7 @@
 ---
 
 ## 3. 접근 방법
-<img width="772" height="258" alt="image" src="https://github.com/user-attachments/assets/96578ed3-627a-4500-aa7d-a947b73a77bd" />
+<img width="772" height="258" alt="image" src="https://github.com/user-attachments/assets/96a0569f-1a80-4250-ab03-f9a3ae4a0688" />
 
 ### 3.1 데이터셋 증강
 - 웹 크롤링을 통해 CTI 보고서 수집
