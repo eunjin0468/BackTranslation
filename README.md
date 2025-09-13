@@ -4,7 +4,7 @@
 <img width="816" height="410" alt="image" src="https://github.com/user-attachments/assets/2df03344-e751-4f76-bfd7-e7d6e1336740" />
 
 본 프로젝트는 CTI(Cyber Threat Intelligence) 보고서를 기반으로 **TTP(Tactics, Techniques, and Procedures) 생성 과정**에서 위협 정보 추출 및 식별 성능을 개선하기 위해 수행되었습니다.  
-데이터 증강과 전처리 과정을 통해 기존 데이터셋 5,000개를 20배 이상 확장하고, 위협 정보 식별 정확도를 크게 향상시켰습니다.
+데이터 증강과 전처리 과정을 통해 기존 데이터셋 5,000개를 20배 이상 확장하고, 위협 정보 식별 정확도를 약 30% 향상시켰습니다.
 
 ---
 
